@@ -9,7 +9,7 @@ My work spans **Python development, machine learning, data analysis, mobile appl
 ## Tech Stack
 
 **Languages**  
-Python • Dart • SQL • JavaScript • C#
+Python • Dart • SQL • Swift • Kotlin
 
 **Data & Machine Learning**  
 Pandas • NumPy • Scikit-learn • Matplotlib • Statsmodels
